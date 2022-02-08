@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="8px" height="21px" viewBox="0 0 8 21" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 55.1 (78136) - https://sketchapp.com -->
+    <title>arrow-left</title>
+    <desc>Created with Sketch.</desc>
+    <g id="projects" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="arrow-left" transform="translate(-8.000000, -2.000000)" fill="#FFFFFF" fill-rule="nonzero">
+            <path d="M8.15464048,21.4661364 C7.85972429,21.933087 7.99918576,22.5507021 8.46613639,22.8456183 C8.93308702,23.1405345 9.5507021,23.001073 9.84561828,22.5341224 L15.8456183,13.0341224 C16.0516331,12.7079323 16.0516331,12.2923265 15.8456183,11.9661364 L9.84561828,2.46613639 C9.5507021,1.99918576 8.93308702,1.85972429 8.46613639,2.15464048 C7.99918576,2.44955666 7.85972429,3.06717174 8.15464048,3.53412237 L13.8173817,12.5001294 L8.15464048,21.4661364 Z" id="Path-2" transform="translate(12.000065, 12.500129) rotate(180.000000) translate(-12.000065, -12.500129) "></path>
+        </g>
+    </g>
+</svg>
