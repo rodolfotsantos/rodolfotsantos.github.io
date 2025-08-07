@@ -1,0 +1,357 @@
+Rodolfo
+Santos
+Product Designer
+Linkedin
+Dribbble
+Designer brasileiro com experiência de 10 anos em produtos digitais e apaixonado por design.
+Sobre
+Graduado em Propaganda e Marketing
+User Experience Design, Design Digital
+e Multimídia - Tera
+Digital Product Leadership - Tera
+UX Design, Gestão de Pesquisa e Desenvolvimento - Mergo
+UX Writing - Mergo
+Técnico em Design Gráfico
+Formações e certificações
+
+Loggi Corp, Presto e PRO
+WMS Web e Terminal
+Centrais de Ajuda
+Loggi Envios
+XD App
+Loggi > Principais projetos
+Trouxe alguns dos principais projetos que participei aqui na Loggi, como a Plataforma Desk e Mobile de Corp, Presto e PRO - Plataforma onde os clientes pessoa física e jurídica utilizavam para fazer os pedidos de retirada e envio de pacotes, desde um envelope numa contabilidade até um pacote em num centro de distribuição.
+App Terminal - Aplicativo Android que cuida de toda a movimentação dos pacotes dentro da operação nas agências e no Cross Docking 
+WMS - Plataforma desktop onde a operação realiza toda a gestão dos pacotes, desde a criação de uma transferência entre agências até a tratativa dos pacotes
+
+
+Loggi Envios
+Case 1
+Produto desenvolvido para melhorar a experiência do embarcador, desde a entrada, manifestação de pacotes, agendamento da coleta, pagamento e acompanhamento.
+Trouxe dois cases, o primeiro é sobre o Loggi envios, um produto que desenvolvemos principalmente pra unificar a experiência de todos os clientes da Loggi, desde um pequeno embarcador até uma plataforma de marketplace que envia milhares de pacotes.
+
+Atualmente os SMB (pequenos e médios negócios) não possuem a capacidade e nem o volume necessário para utilizar a malha logística da Loggi.
+Loggi Envios > Contexto
+A Loggi oferece plataformas diferentes aos seus embarcadores para cada caso de uso, gerando alto custo e inconsistência entre os produtos oferecidos.
+Os pequenos e médios embarcadores não possuem acesso a malha logística da Loggi, somente podem utilizar o produto Loggi Corp, porém nem sempre é atrativo pro modelo de negócio desses embarcadores. Além da Loggi oferecer produtos diferentes dependendo do perfil do embarcador.
+
+Somente os grandes negócios possuem acesso a malha logística, deixando o mercado SMB carente, resultando em custos mais elevados e baixa aderência ao produto.
+Loggi Envios > Problema
+Outro problema é que o custo de manutenção dos diferentes produtos é alto, gerando gaps nas atualizações e correções de bugs, o que prejudica a experiência dos usuários.
+O principal problema é com relação aos valores praticados pela Loggi para os SMB, dificultando a entrada desses embarcadores e a retenção após a ativação. Um problema secundário é que atualmente é muito custoso manter diversos produtos, gerando inconsistência e falta de atualizações, o que acaba prejudicando a experiência e aumentando o número de contato com o atendimento.
+
+O objetivo é unificar todos os produtos que são oferecidos atualmente pela empresa, inserindo todo volume na malha logística, independente do perfil, tornando a plataforma cada vez mais self-service.
+Loggi Envios > Objetivo
+Loggi Corp, Presto e Pro
+>   Loggi Envios
+Então nosso objetivo era unificar todos os produtos que a Loggi oferece, permitindo que todo embarcador tenha acesso a malha logística do Brasil, independente do tamanho, pequeno, médio ou grande, e também tornar cada vez mais a experiência dos embarcadores self service.
+
+Loggi Envios > Discovery - Etapas
+1_ Mapeamento do mercado
+Definição dos principais e players do mercado, pesquisa qualitativa para analisar como é a operação e a relação com os SMB.
+2_ Entrevista com SMB
+Identificar carências e oportunidades para o perfil SMB, entender como às transportadoras os atendem
+3_ Compilação dos aprendizados
+Agrupar informações para auxiliar nas definições estratégicas, definir perfis e identificar as necessidades dos embarcadores.
+4_ Proposta de solução
+Definir fluxos simples unificando a experiência para todos os casos de uso, tornando a plataforma cada vez mais self-service.
+Aqui eu trouxe um pouco de como foi o processo desse discovery, onde nós fizemos um mapeamento do mercado com os principais players, conversamos com alguns embarcadores e depois compilamos todas as informações para sugerir soluções que atendessem às necessidades dos embarcadores.
+
+Players analisados que atuam no mercado de entregas
+Loggi Envios > Discovery - Amostra
+Shippo - Hermes - Shipify - Melhor Envio - FastFast - Stuart - DHL - Aftership - Easyship - Urbaner - Lalamove - Freightos - UPS - Sandle - Uber Freight
+Eu entrego - FedEx - Correios - B2W Entregas - Eu entrego - Parcel2go - Mercado Envio - Magazine Envios - Total Express - JadLog - Shopee Envios
+26
+Embarcadores, entre pequenos e médios
+8
+Clientes que fazem até 10 envios por dia
+4
+Small Business
+Clientes que fazem de 10 a 50 envios por dia
+4
+Medium Business
+Como amostra nós selecionamos 26 transportadoras que fornecem o serviço dentro e fora do Brasil, como a DHL, Correios e Fedex. E também falamos com 8 embarcadores, sendo que 4 eram pequenos negócios que faziam até 10 envios pro dia, e 4 médios que faziam de 10 a 50 envios por dia.
+
+Investigação profunda sobre como os players do mercado atuam, analisando as plataformas e como é vendido o serviço.
+Loggi Envios > Discovery - Mapeamento do mercado
+Práticas na precificação dos players no mercado
+Modelo operacional sobre coletas e volume
+Estrutura operacional para SMB (small/medium business)
+Transportadoras
+A análise foi feita com um olhar amplo para como os players oferecem o serviço e também como é a interface que os clientes tem acesso, se existe variações de acordo com o negócio, tamanho da empresa ou volume.
+
+
+Recrutamento, definição do roteiro e aplicação de entrevistas com os SMB, identificando carências e oportunidades para oferecer no novo produto.
+Loggi Envios > Discovery - Entrevista
+Entender como os embarcadores enviam seus volumes
+Como é feito o acompanhamento desse envios
+Como é realizado o pagamento desses envios
+Embarcadores SMB
+O objetivo era entender como esses embarcadores enviam seus volumes, como eles acompanham após a coleta e como é o faturamento junto às outras transportadoras, então fizemos algumas entrevistas após o recrutamento com um roteiro já definido.
+
+Práticas na precificação
+Loggi Envios > Aprendizados
+Nem todas as transportadoras oferecem faturamento para o SMB, varia de acordo com o volume, o mesmo acontece com os valores praticados por envio.
+A coleta é um diferencial, gerando comodidade para os embarcadores, independente do perfil e volume.
+Modelo operacional
+Poucas transportadoras oferecem o serviço de coleta dos volumes, boa parte das que oferecem a coleta o serviço não é automatizado, gerando alto custo.
+Relacionamento com SMB
+O mercado SMB não é uma novidade para as transportadoras, a maioria também exige nota fiscal ou uma declaração de conteúdo dos volumes enviados.
+O principal aprendizado aqui com base nas entrevistas e no mapeamento do mercado, é que às coletas são um diferencial, mesmo às transportadoras que não ofereciam o serviço apontavam isso como algo importante e que era um ponto de dor para os embarcadores. Outro ponto importante é sobre a precificação, nem todas às transportadoras oferecem faturamento mensal para os pequenos embarcadores, necessitando de pagamentos pré pagos, ou por meio de cartão de crédito na plataforma.
+
+Loggi Envios > Solução
+Simplicidade
+O embarcador informa onde coletar e com quem, a Loggi retira e realiza a entrega.
+Flexível
+Flexibilidade na forma como o volume é manifestado na plataforma.
+Trouxe alguns detalhes da interface que nós oferecemos hoje para os embarcadores no Loggi Envios, foi principalmente pensado para ser simples e flexível, fácil de usar e encontrar às informações. O embarcador escolhe onde e com quem retirar os volumes, define como quer imputar às informações desses volumes, seja de forma unitária, por planilha ou um drag and drop das notas fiscais diretamente no browser, e a Loggi coleta, processa e entrega.
+
+Loggi Envios > Solução
+Escolha quando
+O embarcador escolhe o dia e a janela de horário que gostaria que a coleta fosse realizada, além de poder criar uma coleta recorrente, deixando todas as coletas automatizadas.
+Acompanhe de ponta a ponta
+Visibilidade do volume a partir do momento que é manifestado na plataforma, seja de forma unitária ou em massa, possibilitando o acompanhamento da movimentação e também a realização de alterações das informações.
+Também oferecemos de forma self service a opção do embarcador criar uma coleta recorrente, ele escolhe o dia da semana e a janela de horário que seus volumes precisam ser coletados, a Loggi mantém essas informações no sistema e o embarcador não precisa entrar para criar uma nova coleta, somente se precisar de alguma mais pontual. Também melhoramos a experiência do acompanhamento dos volumes que o embarcador envia, dentro do Loggi envios ele consegue visualizar todas às informações e movimentação daquele volume, desde a inserção na plataforma até a entrega, além de poder realizar algumas alterações sem precisar solicitar atendimento da operação.
+
+Loggi Envios > Solução, fluxo completo
+Fluxo completo da criação de um envio
+Desculpa pela imagem, não fica muito legível, mas queria trazer um pouco do fluxo macro da criação de um envio dentro da plataforma, deixei um link com o fluxo completo para visualizar melhor.
+
+~658
+91%
+Loggi Envios > Resultados
+coletas por dia (somente dias úteis)
+das coletas são recorrentes e automatizadas
+15,7%
+1,3%
+83%
+das coletas são realizadas com sucesso
+Canceladas pela Loggi
+Canceladas pelo Embarcador
+Trouxe alguns números que demonstram o crescimento do Loggi Envios nos últimos meses. Atualmente são realizadas em média 658 coletas por dia nos embarcadores, dessa média 91% são coletas recorrentes e automatizadas, quase 50% dos embarcadores solicitam de uma a duas coletas por semana. Das coletas criadas na plataforma, 83% são realizadas com sucesso, quase 16% dessas coletas são canceladas pelo sistema por problemas na alocação, esse fator é importante e está sendo discutido na tribo para tentar reduzir esse número. 
+
+~2mi
+97,3%
+Loggi Envios > Resultados
+de pacotes coletados por semana pelo Loggi Envios
+SLA das entregas no Loggi Envios
+
+66,3%
+de retenção após a ativação do embarcador
+Consideramos a porcentagem de retenção baixa após 6 semanas de uso da plataforma. Alguns acionáveis estão sendo feitos para identificar os motivos, como entrevista com embarcadores que deixaram de enviar e embarcadores que diminuíram o volume de envios, algumas respostas incluem preço e atrasos e cancelamentos das coletas.
+Hoje nós temos aproximadamente 2 milhões de pacotes sendo coletados por semana pelo Loggi Envios, e um número super importante é que nós conseguimos manter o SLA desses pacotes acima dos 97%. Porém apesar desses números até aqui serem positivos, hoje nossa taxa de retenção é baixo, alguns acionáveis foram precisos aqui para entender os motivos da diminuição dos volumes enviados e também entender porque alguns embarcadores deixaram de utilizar o Loggi Envios, tivemos algumas conversas iniciais e a princípio esses números estão muito relacionados ao custo de envio e atrasos ou cancelamentos das coletas.
+
+Criação de um envio
+Loggi Envios > Contribuições
+Acompanhamento das coletas e pacotes
+Criação de coletas recorrentes
+Contribui na segunda etapa do projeto identificando melhorias na criação de um envio, na manifestação dos pacotes, no mapeamento dos casos de erro e validações no fluxo de ponta a ponta.
+Melhorias no fluxo das coletas individuais e definição do fluxo das coletas recorrentes sem declaração de conteúdo, desenvolvimento da área de configurações do Loggi Envios.
+Definição do fluxo de acompanhamento de coletas e pacotes do Loggi Envios, com base em pesquisas, entrevistas, testes de usabilidade e percepção, definimos quais informações eram mais relevantes para os embarcadores, assim tornando um acompanhamento mais preciso e funcional.
+Configuração de integrações
+Implementação do fluxo para possibilitar a integração com alguns sistemas de gestão empresarial (ERPs) como a Bling, Nuvem Shop, além de Marketplaces como a Shopee.
+Trouxe um pouco das minhas contribuições nesse projeto que passam desde a criação de um envio, onde eu fui responsável por levantar e aplicar melhorias na criação e manifestação dos pacotes, criação do fluxo de coletas recorrentes onde hoje atende 91% dos casos de uso. Criação da UI da seção de acompanhamento das coletas e pacotes, onde também desenvolvi roteiros, fiz recrutamento dos embarcadores e apliquei entrevistas para identificar quais informações eram mais relevantes, tornando o acompanhamento mais preciso e funcional. Além de desenvolver a área de configurações das integrações com o ERPs e Marketplaces, responáveis pelo maior volume de envios atualmente.
+
+Edição de endereço
+Case 2
+É cada vez mais comum recebermos endereços em diferentes formatos e canais, temos que ser capazes de lidar com todas essas variações e possibilitar a edição caso necessário.
+Meu segundo case vou falar sobre um projeto que reuniu muitas squads da Loggi, pois é um assunto transversal e que impacta diretamente em diversos setores, que é a edição de endereço, 
+
+Aproximadamente 1% dos pacotes da Loggi têm seu endereço editado. Em apenas um mês representou quase 46 mil pacotes.
+Edição de endereço > Contexto
+Erro da Loggi ao encontrar o endereço correto
+Recebedor quer receber em outro endereço
+Recebedor informa o endereço errado
+Embarcador faz o cadastro do endereço errado
+
+Trazendo um pouco do contexto, aproximadamente 1% dos pacotes da Loggi têm o endereço editado, mas só 1%? Pode até parecer pouco num primeiro momento, mas esse 1% representou quase 46 mil pacotes em apenas um mês, é muita coisa. Alguns motivos que fazem essa demanda existir é pela própria Loggi às vezes não conseguir encontrar esse endereço de forma correta no sistema, um recebedor quer mudar o endereço para receber em outro local, ou porque na compra no ecommerce ele inseriu o endereço errado também, ou até pela inserção errada desse endereço pelo embarcador no momento da criação de um envio, então são vários fatores que implicam nessa demanda.
+
+Os impactos transversais são enormes, atingindo diretamente vários setores da Loggi.
+Edição de endereço > Problema
+Falta de precisão para calcular a data estimada para entrega.
+A Loggi não consegue calcular um novo valor do frete relacionado a edição do endereço, causando prejuízo. 
+Não é atualizado as documentações fiscais, gerando muito risco da carga ficar presa em alfândegas, ou barreiras rodoviárias.
+Vários setores da Loggi são impactados com a edição atual, influenciando diretamente no preço, nos acordos firmados com os embarcadores, além de problemas no manuseio desses pacotes pela operação das agências por falta de atualização das informações nas etiquetas impressas.
+
+A edição de endereço atual não é escalável, tornando o processo moroso e altamente custoso.
+Edição de endereço > Problema
+maior motivo de contato 
+
+
+
+2°
+dos tickets recebidos são edições de endereço
+
+
+22%
+maior motivo de contato 
+
+
+
+3°
+dos tickets recebidos são edições de endereço
+
+
+13%
+Loggi Envios
+Nacionais (PRO)
+Os embarcadores têm pouca liberdade de ação nas plataformas, de forma que, para resolverem problemas, solicitam apoio das nossas equipes de CX/CS. A edição de endereço hoje é o segundo maior motivo de contato, representando cerca de 22% somente no Loggi Envios, e isso faz com que seja altamente custoso e muito moroso, além de não ser escalável.
+
+Desenvolver uma solução única de edição de endereço para o Loggi Envios, propondo uma API unificada que cubra todos os pontos de contato.
+Edição de endereço > Objetivo
+Nosso objetivo foi desenvolver uma solução que unificasse a forma como é feita às edições de endereço, propondo uma nova API responsável por absorver toda demanda que hoje estava dispersada.
+
+0,8%
+45.891
+10%
+90%
+dos pacotes da Loggi tem seu endereço editado.
+
+pacotes editados em um mês.
+
+das edições são feitas por recebedores.
+
+das edições são feitas por embarcadores ou loggers.
+
+Edição de endereço > Discovery
+Fizemos um discovery aprofundado e colhemos alguns dados importantes que ajudaram na definição e priorização da solução. Como falei anteriormente, quase 1% dos pacotes da Loggi tem o endereço editado, aproximadamente 46 mil pacotes em apenas um mês, sendo que 90% das edições são feitas por embarcadores e atendimento interno, 10% são feitos por recebedores.
+
+13%
+86%
+96%
+3,1%
+0,9%
+das alterações são no mesmo município.
+
+
+
+das alterações são em municípios diferentes, mas no mesmo estado.
+dos pacotes editados têm um insucesso de entrega após edição.
+
+dos novos destinos estão a menos de 5km do destino anterior.
+
+das alterações são em estados diferentes.
+Edição de endereço > Discovery
+Outro dado interessante é que a maior parte das mudanças são edições de endereço no mesmo município, e 86% desses casos o novo endereço está apenas a 5km de distância do anterior. Porém, desses pacotes que sofreram alteração, cerca de 13% tiveram um insucesso de entrega, seja pela imputação ou interpretação errada na leitura do endereço da API atual.
+
+Existem três formas diferentes capazes de realizar edições de um endereço.
+Edições realizadas por embarcadores Enterprise, além do time de CS com acesso ao sistema de tratativas do cliente.
+WMS Tratativas
+Contato do embarcador ou recebedor com time de CX, CS. A operação dos XDs e agências também têm capacidade de edição.
+WMS
+Geralmente a origem da  demanda acontece via whatsapp/sms ou página de rastreio. Edição somente para pacotes da mesma cidade.
+Recebedores
+Edição de endereço > Discovery
+Na investigação encontramos 3 formas diferentes de realizar uma edição de endereço, pela plataforma WMS Tratativas que é um local onde os embarcadores tem acesso e podem fazer algumas alterações nos pacotes, pelo WMS que é gerido pela operação da Loggi e pelos recebedores quando a Loggi vai fazer a entrega e envia uma confirmação de endereço.
+
+Edição de endereço > Solução
+A edição do endereço deve seguir a mesma experiência do fluxo da criação de um pacote, além da padronização do endereço da Loggi.
+A nossa premissa para a solução foi definir que a nova edição de endereço deveria seguir o mesmo padrão de experiência da criação de um envio, utilizando a mesma estrutura, facilitando a curva de aprendizado e mantendo a ideia de uma plataforma self service onde os usuários possam realizar suas tratativas sem a necessidade de suporte.
+
+Edição de endereço > Solução - Fluxo macro
+Novo endereço está dentro
+da abrangência da Loggi? (redespacho+Loggi)
+A alteração é fiscalmente permitida?
+Validação da edição
+NÃO
+SIM
+NÃO
+Pacote está com os correios?
+SIM
+Saída
+A edição é realizada e atualizamos todos os dados no sistema
+Entrada de endereço
+Esse usuário tem permissão para edição?
+
+
+Não pode editar o endereço
+NÃO
+NÃO
+SIM
+SIM
+NÃO
+UI Loggi EnviosEmbarcadores e público interno Loggi
+APIEmbarcadores
+Pacote está em um status finalizador?
+SIM
+O pacote está com entregador em rota de entrega?
+NÃO
+SIM
+Não pode editar o endereço
+Não pode editar o endereço
+Não pode editar o endereço
+Não pode editar o endereço
+Não pode editar o endereço
+Trouxe o fluxo macro onde definimos as regras de negócio e o momento onde o pacote pode sofrer uma edição ou não, a possibilidade dessa edição pode variar a partir da permissão do usuário na plataforma, do status, da localização desse pacote e de quem é a custódia desse pacote no momento da tentativa. 
+
+Edição de endereço > Solução - Casos de uso
+Onde é o novo endereço:Município igual ao anteriorMomento:Antes da coletaÉ permitido alteração?SIM
+Onde é o novo endereço:Município igual ao anteriorMomento:Depois da coletaÉ permitido alteração?SIM
+Onde é o novo endereço:Município diferente do anteriorMomento:Antes da coletaÉ permitido alteração?SIM
+Onde é o novo endereço:Município diferente do anteriorMomento:Depois da coletaÉ permitido alteração?SIM
+Onde é o novo endereço:Município em estado diferente do anteriorMomento:--É permitido alteração?NÃO
+96% dos casos
+3,1% dos casos
+0,9% dos casos
+Complexidade
+Menos complexa
+Mais complexa
+Aqui trouxe alguns casos de uso que nos ajudaram na priorização do desenvolvimento a partir dos dados levantados no discovery. Entendemos que nesse primeiro momento vamos permitir a edição de um endereço apenas para pacotes que estão no mesmo estado, seja no município do endereço anterior ou não, os pacotes que não estão no mesmo estado do município anterior não vão ser permitidas edições, porém numa próxima versão sim. Outro fator de decisão além da porcentagem é que a complexidade para realizar essas alterações e permitir que o pacote siga na malha logística é baixa.
+
+Edição de endereço > Solução - UI, fluxo feliz
+Na proposta eu sugeri uma junção de endereço de entrega + dados do destinatário. Na primeira versão o embarcador só poderá editar o endereço, mas para as próximas versões ele vai poder alterar outras informações que possam ajudar no sucesso da entrega. Além disso, mantemos a mesma experiência do criar envio mencionado como premissa, o usuário clica em alterar destinatário, atualiza as informações do endereço e é informado um novo valor e prazo para o pacote, após a validação o endereço é atualizado no sistema e no próximo bipe do pacote ele vai ser direcionado corretamente para uma tentativa de entrega.
+
+
+
+Edição de endereço > Solução - UI, fluxo completo
+Para o fluxo completo de edição de endereço foi mapeado todos os casos de uso, validações e erros.
+Fluxo completo da edição do endereço
+Aqui eu trouxe uma view do fluxo completo, onde foi mapeado todos os cenários de de uso, validações e erros do fluxo de edição de endereço, também deixei o link do fluxo no figma.
+
+Edição de endereço > Resultados
+Houve um aumento de 7% no sucesso de entrega dos pacotes editados pela nova API do Loggi Envios.
+94%
+dos pacotes editados foram entregues
+87%
+Antes
+94%
+Agora
++ 7%
+Trouxe alguns resultados relevantes e que ajudam a ilustrar o impacto que a nova edição de endereço está sendo responsável, e até o momento houve um aumento de 7% no sucesso de entrega dos pacotes que foram editados dentro do Loggi Envios. Esse número também mostra que a nova API é melhor e mais precisa na captação e no gerenciamento dos endereços imputados pelos usuários.
+
+Edição de endereço > Resultados
+Mais autonomia para o embarcador, menos contato com o atendimento tornando o produto escalável.
+-14%
+nos tickets recebidos por CX
+23%
+Antes
+9%
+Agora
+- 14%
+Outro resultado muito importante até o momento é que conseguimos reduzir a taxa de contato com o atendimento da Loggi em 13%, isso só foi possível pela autonomia dada aos embarcadores tornando a plataforma cada vez mais self service e escalável. E além desses resultados, também tivemos outras conquistas como a geração de receita após a inserção de cobrança nas edições realizadas pelos embarcadores, e também a unificação da experiência de edição para os embarcadores e operação da Loggi, todo pacote manifestado no Loggi Envios pode ser alterado na plataforma, sem a necessidade de usar outra ferramenta.
+
+
+
+Discovery
+Edição de endereço > Contribuições
+Jornada, UI e QA
+Implementação
+Mapeamento completo da estrutura de edição de endereço existente na época, testando e analisando a plataforma, além de conversas com stakeholders que ajudaram na definição de acionáveis para a criação da solução no Loggi Envios.
+Mediei uma parceria com outros times para resolver os problemas de cobrança, fluxo operacional e visibilidade do pacote, além de traçar um plano de depreciação dos sistemas antigos para serem desligados após o lançamento.
+Fui responsável pelo desenvolvimento do fluxo completo mapeando todos os casos de uso, validações e possíveis erros de sistema, entrega do handoff para o time de engenharia, além de acompanhar o desenvolvimento de ponta a ponta fazendo QAs por sprint para garantir a qualidade.
+Contribui no mapeamento de todos os cenários existentes que possibilitavam edições de endereço na época. Também fui responsável da entrega do fluxo completo com handoff para o time de engenharia, além de acompanhar o desenvolvimento de perto garantindo a qualidade através de QAs contínuos nas sprints, também fui a ponte entre algumas squads junto com a PM do time para garantir que todas as etapas do fluxo estavam sendo desenvolvidas.
+
+Além dos cases…
+Organização e desenvolvimento do design system
+Apresentação dos produtos e auxílio na adaptação para novos designers
+Comunicação aberta entre produto e engenharia
+Organização e desenvolvimento do design system
+Apresentação dos produtos e auxílio na adaptação para novos designers
+Comunicação aberta entre produto e engenharia
+
+Obrigado.
+Rodolfo Santos
+Product Designer
+hi.rodolfo@gmail.com  +55 11 967 037 945 
+Esses foram os dois cases que eu trouxe para apresentar, espero que vocês tenham gostado e acima de tudo entendido, rs 
+

@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <style>
+    body {
+      font-family: 'Segoe UI', sans-serif;
+      margin: 0;
+      padding: 40px 60px;
+      background-color: white;
+      color: #000;
+    }
+
+    .container {
+      max-width: 960px;
+      margin: 0 auto;
+    }
+
+    h1 {
+      font-size: 18px;
+      font-weight: 500;
+      color: #000;
+    }
+
+    h1 span {
+      color: #2D5BFF;
+      font-weight: 600;
+    }
+
+    .stats {
+      display: flex;
+      gap: 60px;
+      margin: 40px 0 20px;
+      flex-wrap: wrap;
+    }
+
+    .stat {
+      flex: 1;
+      min-width: 200px;
+    }
+
+    .stat .big {
+      font-size: 48px;
+      font-weight: 700;
+      color: #2D5BFF;
+      margin-bottom: 5px;
+    }
+
+    .stat .label {
+      font-size: 16px;
+      color: #000;
+    }
+
+    .stat .label span {
+      font-weight: bold;
+    }
+
+    .bar-section {
+      margin-top: 40px;
+    }
+
+    .bar {
+      display: flex;
+      height: 30px;
+      margin-top: 10px;
+      border-radius: 3px;
+      overflow: hidden;
+    }
+
+    .bar .cancel-loggi {
+      background-color: #F5B9B5;
+      width: 15.7%;
+    }
+
+    .bar .cancel-embarcador {
+      background-color: #FAE18D;
+      width: 1.3%;
+    }
+
+    .bar .success {
+      background-color: #A3C7FF;
+      width: 83%;
+    }
+
+    .bar-labels {
+      display: flex;
+      justify-content: space-between;
+      font-size: 14px;
+      margin-bottom: 5px;
+    }
+
+    .legend {
+      display: flex;
+      gap: 20px;
+      font-size: 14px;
+      margin-top: 10px;
+    }
+
+    .legend-item {
+      display: flex;
+      align-items: center;
+      gap: 5px;
+    }
+
+    .box {
+      width: 16px;
+      height: 16px;
+      border-radius: 2px;
+    }
+
+    .loggi {
+      background-color: #F5B9B5;
+    }
+
+    .embarcador {
+      background-color: #FAE18D;
+    }
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1>Loggi Envios > <span>Resultados</span></h1>
+
+    <div class="stats">
+      <div class="stat">
+        <div class="big">~658</div>
+        <div class="label">coletas por dia<br><small>(somente dias úteis)</small></div>
+      </div>
+
+      <div class="stat">
+        <div class="big">91%</div>
+        <div class="label">das coletas são <span>recorrentes</span><br>e automatizadas</div>
+      </div>
+
+      <div class="stat">
+        <div class="big">83%</div>
+        <div class="label">das coletas são <span>realizadas com sucesso</span></div>
+      </div>
+    </div>
+
+    <div class="bar-section">
+      <div class="bar-labels">
+        <div>15,7%</div>
+        <div>1,3%</div>
+      </div>
+      <div class="bar">
+        <div class="cancel-loggi"></div>
+        <div class="cancel-embarcador"></div>
+        <div class="success"></div>
+      </div>
+
+      <div class="legend">
+        <div class="legend-item">
+          <div class="box loggi"></div>
+          Canceladas pela Loggi
+        </div>
+        <div class="legend-item">
+          <div class="box embarcador"></div>
+          Canceladas pelo Embarcador
+        </div>
+      </div>
+    </div>
+  </div>
+</body>
+</html>

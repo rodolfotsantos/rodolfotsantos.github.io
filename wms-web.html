@@ -55,9 +55,6 @@
               <li><a href="about.html">
                   <h4>Sobre</h4>
                 </a></li>
-              <li><a target=”_blank” href="https://dribbble.com/rodolfotsantos">
-                  <h4>Full Projects</h4>
-                </a></li>
             </ul>
           </nav>
           <a href="#" class="nav-toggle">Menu<span></span></a>
@@ -325,12 +322,12 @@
   </section>
   <section>
     <div class="container-fluid">
-      <div id="myCarousel2" class="carousel slide" data-ride="carousel">
+      <div id="myCarousel2" class="carousel slide" data-ride="carousel" data-interval="false">
         <!-- Indicators -->
         <ol class="carousel-indicators">
-          <li data-target="#myCarousel2" data-slide-to="6" class="active"></li>
-          <li data-target="#myCarousel2" data-slide-to="7"></li>
-          <li data-target="#myCarousel2" data-slide-to="8"></li>
+          <li data-target="#myCarousel2" data-slide-to="0" class="active"></li>
+          <li data-target="#myCarousel2" data-slide-to="1"></li>
+          <li data-target="#myCarousel2" data-slide-to="2"></li>
         </ol>
         <!-- Wrapper for slides -->
         <div class="carousel-inner">
@@ -367,10 +364,53 @@
         </a>
       </div>
     </div>
-    </div>
-    </div>
+    <script>
+      // Touch swipe for mobile
+      $('#myCarousel2').on('touchstart', function(event){
+        var xClick = event.originalEvent.touches[0].pageX;
+        $(this).one('touchmove', function(event){
+          var xMove = event.originalEvent.touches[0].pageX;
+          if( Math.floor(xClick - xMove) > 5 ){
+            $(this).carousel('next');
+          }
+          else if( Math.floor(xClick - xMove) < -5 ){
+            $(this).carousel('prev');
+          }
+        });
+        $(this).on('touchend', function(){
+          $(this).off('touchmove');
+        });
+      });
+
+      // Mouse drag for desktop
+      let isDown = false;
+      let startX = 0;
+      let carousel = document.getElementById('myCarousel2');
+      let threshold = 30;
+
+      carousel.addEventListener('mousedown', function(e) {
+        isDown = true;
+        startX = e.pageX;
+      });
+
+      carousel.addEventListener('mouseup', function(e) {
+        if (!isDown) return;
+        let diff = e.pageX - startX;
+        if (diff > threshold) {
+          $('#myCarousel2').carousel('prev');
+        } else if (diff < -threshold) {
+          $('#myCarousel2').carousel('next');
+        }
+        isDown = false;
+      });
+
+      carousel.addEventListener('mouseleave', function() {
+        isDown = false;
+      });
+    </script>
   </section>
   <!-- previous grid section -->
+  <!-- service section -->
   <!-- service section -->
   <section class="projects">
     <div class="container">
