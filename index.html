@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rodolfo Santos - Portfolio</title>
+    <meta http-equiv="refresh" content="0; url=./home.html">
+    <link rel="canonical" href="./home.html">
+    <style>
+        body {
+            font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0;
+            background: #f8f9fa;
+        }
+        .loading {
+            text-align: center;
+            color: #666;
+        }
+        .loading h1 {
+            margin-bottom: 1rem;
+            color: #333;
+        }
+        .spinner {
+            width: 40px;
+            height: 40px;
+            border: 4px solid #e3e3e3;
+            border-top: 4px solid #007bff;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            margin: 0 auto 1rem;
+        }
+        @keyframes spin {
+            0% { transform: rotate(0deg); }
+            100% { transform: rotate(360deg); }
+        }
+    </style>
+</head>
+<body>
+    <div class="loading">
+        <div class="spinner"></div>
+        <h1>Rodolfo Santos</h1>
+        <p>Redirecionando para o portfolio...</p>
+        <p><a href="./home.html">Clique aqui se não for redirecionado automaticamente</a></p>
+    </div>
+    
+    <script>
+        // Fallback redirect em caso do meta refresh não funcionar
+        setTimeout(function() {
+            window.location.href = './home.html';
+        }, 100);
+    </script>
+</body>
+</html>
