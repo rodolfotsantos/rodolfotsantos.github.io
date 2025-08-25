@@ -1,0 +1,35 @@
+/* Custom CSS for Portfolio Site - minimal interference */
+
+/* Ajuste da sequência completa de z-index para project-sticky */
+.project-sticky._1 {
+  z-index: 6 !important;
+}
+
+.project-sticky._2 {
+  z-index: 5 !important;
+}
+
+.project-sticky._3 {
+  z-index: 4 !important;
+}
+
+.project-sticky._4 {
+  z-index: 3 !important;
+}
+
+/* Fix for missing z-index on project-sticky _5 and _6 - mantendo sticky behavior */
+.project-sticky._5 {
+  z-index: 2 !important;
+  position: sticky !important; /* volta para sticky */
+  bottom: 0 !important;
+  pointer-events: auto !important; /* garante que os links sejam clicáveis */
+}
+
+.project-sticky._6 {
+  z-index: 1 !important;
+  position: sticky !important; /* volta para sticky */
+  bottom: 0 !important;
+  pointer-events: auto !important; /* garante que os links sejam clicáveis */
+}
+
+/* Other custom styles can be added here */
